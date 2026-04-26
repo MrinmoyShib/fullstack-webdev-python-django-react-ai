@@ -87,11 +87,17 @@ using Python, Django, React and AI.
 
 print(about)
 
+# -----------------------------------------------------------------------------
+# 8. String Indexing
+# -----------------------------------------------------------------------------
 
-# =============================================================================
-# Key Takeaways
-# -   Strings can be defined with single, double, or triple quotes
-# -   Variables store values and need no type declaration in Python
-# -   type() reveals the data type of any variable
-# -   f-strings are the cleanest way to format strings (Python 3.14.3)
-# =============================================================================
+course = "Full Stack Web Development"
+print(course[0])  # Indexing starts from 0
+print(course[11])
+
+# -----------------------------------------------------------------------------
+# 9. String length
+#
+
+course = "Full Stack Web Development"
+print(len(course))
