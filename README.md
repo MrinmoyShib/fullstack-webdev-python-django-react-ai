@@ -6,6 +6,7 @@
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![AI](https://img.shields.io/badge/AI%20Integration-FF6F00?style=for-the-badge&logo=openai&logoColor=white)
 ![License: MIT](https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge)
+![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=MrinmoyShib.fullstack-webdev-python-django-react-ai&style=for-the-badge&color=blue)
  
 ---
  
