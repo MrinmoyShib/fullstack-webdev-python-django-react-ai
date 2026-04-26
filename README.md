@@ -24,7 +24,7 @@ Every folder, file, and commit reflects real hands-on practice — including pre
 ```
 fullstack-webdev-python-django-react-ai/
 │
-├── 📁 01_python_prep/               # 60 preparatory video exercises
+├── 📁 01_python_prep/               # Preparatory exercises
 │   ├── 01_variables_datatypes.py
 │   ├── 02_conditionals_loops.py
 │   ├── 03_functions.py
@@ -128,7 +128,7 @@ fullstack-webdev-python-django-react-ai/
  
 ```bash
 # 1. Clone the repository
-git clone https://github.com/yourusername/fullstack-webdev-python-django-react-ai.git
+git clone https://github.com/MrinmoyShib/fullstack-webdev-python-django-react-ai
  
 # 2. Navigate to the project folder
 cd fullstack-webdev-python-django-react-ai
@@ -149,9 +149,9 @@ npm start
  
 ## 📬 Connect With Me
  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yourusername)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:youremail@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mrinmoy-shib-78ba55353/)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MrinmoyShib)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mrinmoyshib25@gmail.com)
  
 ---
  
