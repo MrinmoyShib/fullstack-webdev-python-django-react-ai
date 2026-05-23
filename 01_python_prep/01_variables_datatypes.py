@@ -209,7 +209,7 @@ print(type(score_str))      # <class 'str'>
  
 name        = "Mrinmoy Shib"  # str   — text
 age         = 25              # int   — whole number
-gpa         = 5.00            # float — decimal number
+gpa         = 4.00            # float — decimal number
 is_learning = True            # bool  — True or False
  
 print(f"Name        : {name}        | Type: {type(name)}")
