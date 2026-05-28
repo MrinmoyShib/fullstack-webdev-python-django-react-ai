@@ -27,7 +27,7 @@ fullstack-webdev-python-django-react-ai/
 │
 ├── 📁 01_python_prep/               # Preparatory exercises
 │   ├── 01_variables_datatypes.py
-│   ├── 02_conditionals_loops.py
+│   ├── 02_operators.py
 │   ├── 03_functions.py
 │   ├── 04_oop_basics.py
 │   ├── 05_modules_packages.py
