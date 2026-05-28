@@ -81,9 +81,9 @@ else:
 # 5. Logical Operators in Conditions
 # -----------------------------------------------------------------------------
 # Logical operators combine multiple conditions.
-# and → both conditions must be True
-# or  → at least one condition must be True
-# not → reverses the condition
+# and -> both conditions must be True
+# or ->  at least one condition must be True
+# not -> reverses the condition
 
 temperature = 35
 is_sunny    = True
