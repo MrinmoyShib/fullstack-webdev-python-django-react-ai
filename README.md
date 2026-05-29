@@ -108,7 +108,7 @@ fullstack-webdev-python-django-react-ai/
 | Phase | Topic | Status |
 |---|---|---|
 | ✅ | Repository Setup | Done |
-| 🔄 | Python Prep (60 Videos) | In Progress |
+| 🔄 | Python Prep | In Progress |
 | ⏳ | Django Backend | Not Started |
 | ⏳ | React Frontend | Not Started |
 | ⏳ | AI Integration | Not Started |
