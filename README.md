@@ -55,7 +55,7 @@ fullstack-webdev-python-django-react-ai/
  
 ## 📚 What I'm Learning
  
-### 🐍 Phase 1 — Python Foundations *(Prep — 60 Videos)*
+### 🐍 Phase 1 — Python Foundations
 - Variables, Data Types & Operators
 - Conditionals, Loops & Control Flow
 - Functions, Scope & Recursion
