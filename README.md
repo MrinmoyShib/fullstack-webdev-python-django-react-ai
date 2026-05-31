@@ -1,7 +1,7 @@
 # 🚀 Full Stack Web Development — Python, Django, React & AI
  
 ![Learning Journey](https://img.shields.io/badge/Status-In%20Progress-brightgreen?style=for-the-badge)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![AI](https://img.shields.io/badge/AI%20Integration-FF6F00?style=for-the-badge&logo=openai&logoColor=white)
@@ -55,7 +55,7 @@ fullstack-webdev-python-django-react-ai/
  
 ## 📚 What I'm Learning
  
-### 🐍 Phase 1 — Python Foundations *(Prep — 60 Videos)*
+### 🐍 Phase 1 — Python Foundations
 - Variables, Data Types & Operators
 - Conditionals, Loops & Control Flow
 - Functions, Scope & Recursion
@@ -108,7 +108,7 @@ fullstack-webdev-python-django-react-ai/
 | Phase | Topic | Status |
 |---|---|---|
 | ✅ | Repository Setup | Done |
-| 🔄 | Python Prep (60 Videos) | In Progress |
+| 🔄 | Python Prep | In Progress |
 | ⏳ | Django Backend | Not Started |
 | ⏳ | React Frontend | Not Started |
 | ⏳ | AI Integration | Not Started |
