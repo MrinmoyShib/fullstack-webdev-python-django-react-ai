@@ -29,7 +29,7 @@ print(x // y)    # floor division -> 3     (drops the decimal part)
 # -----------------------------------------------------------------------------
 # 2. Assignment Operators
 # -----------------------------------------------------------------------------
-# These let you update a variable's value in a short, readable way.
+# These let us update a variable's value in a short, readable way.
 
 score = 10
 score += 5    # same as: score = score + 5  -> 15
@@ -88,9 +88,9 @@ print(result_with_parens)
 # -----------------------------------------------------------------------------
 # 6. Math Functions & the math Module
 # -----------------------------------------------------------------------------
-# Python's built-in math module gives you extra math tools beyond +, -, *, /.
+# Python's built-in math module gives us extra math tools beyond +, -, *, /.
 
-import math
+import math  # noqa: E402
 
 print(math.sqrt(81))     # square root -> 9.0
 print(math.floor(7.9))   # rounds down -> 7
@@ -102,7 +102,7 @@ print(math.pow(2, 5))    # 2 to the power of 5 -> 32.0
 # 7. Strings & Indexing / Slicing
 # -----------------------------------------------------------------------------
 # A string is just a sequence of characters. Every character has an index,
-# and you can grab a single character or a whole "slice" (range) of them.
+# and we can grab a single character or a whole "slice" (range) of them.
 
 word = "Python"
 
@@ -115,7 +115,7 @@ print(word[2:])     # 'thon' -> everything from index 2 onward
 # -----------------------------------------------------------------------------
 # 8. Formatted Strings (f-strings)
 # -----------------------------------------------------------------------------
-# f-strings let you drop variables directly into a string using {}.
+# f-strings let us drop variables directly into a string using {}.
 
 city = "Faridpur"
 temperature = 32
@@ -167,7 +167,7 @@ print("Result check complete.")
 # -----------------------------------------------------------------------------
 # 12. Decision Making: if ... else
 # -----------------------------------------------------------------------------
-# "else" gives you a fallback block that runs only when the "if" condition
+# "else" gives us a fallback block that runs only when the "if" condition
 # is False.
 
 number = 7
@@ -181,7 +181,7 @@ else:
 # -----------------------------------------------------------------------------
 # 13. Decision Making: if ... elif ... else
 # -----------------------------------------------------------------------------
-# "elif" lets you check multiple conditions in order. Python checks them
+# "elif" lets us check multiple conditions in order. Python checks them
 # top to bottom and stops at the first one that's True.
 
 wallet_balance = 40
@@ -198,7 +198,7 @@ else:
 # 14. Decision Making: match ... case (Python 3.10+)
 # -----------------------------------------------------------------------------
 # "match" is a cleaner alternative to a long chain of if/elif statements
-# when you're comparing one value against several fixed options.
+# when we are comparing one value against several fixed options.
 
 day_number = 3
 

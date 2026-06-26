@@ -12,7 +12,7 @@
 # -----------------------------------------------------------------------------
 # 1. Printing Output
 # -----------------------------------------------------------------------------
-# print() is the most basic Python function. It displays whatever you give it
+# print() is the most basic Python function. It displays whatever we give it
 # on the screen. This is usually the very first thing every Python learner runs.
 
 print("Hello, World!")
@@ -22,7 +22,7 @@ print("Hello, World!")
 # 2. Variables
 # -----------------------------------------------------------------------------
 # A variable is just a labeled box that stores a value in memory.
-# Python does NOT need you to declare a type — it figures it out automatically.
+# Python does NOT need us to declare a type — it figures it out automatically.
 
 age = 25          # an integer value stored in the variable 'age'
 city = "Dhaka"    # a string value stored in the variable 'city'
@@ -54,7 +54,7 @@ print(student_name)
 # 4. Data Types & the type() Function
 # -----------------------------------------------------------------------------
 # Every value in Python belongs to a "data type". The type() function tells
-# you what type a value or variable currently is.
+# us what type a value or variable currently is.
 
 whole_number = 7
 decimal_number = 3.14
@@ -95,7 +95,7 @@ print(numeric_age + 5)         # math now works correctly
 whole = 10
 decimal = 2.5
 result = whole + decimal
-print(type(result))    # <class 'float'> - Python converted it for you
+print(type(result))    # <class 'float'> - Python converted it for us
 
 
 # -----------------------------------------------------------------------------
@@ -146,7 +146,7 @@ print(greeting[3])     # 'c' -> the 4th character (index starts at 0)
 # -----------------------------------------------------------------------------
 # 10. f-strings (Formatted Strings)
 # -----------------------------------------------------------------------------
-# f-strings let you insert variable values directly inside a string using
+# f-strings let us insert variable values directly inside a string using
 # curly braces {}. This is cleaner than joining text with "+".
 
 user_name = "Sadia"
@@ -187,7 +187,7 @@ and is often used for longer explanations.
 # Key Takeaways
 # - print() displays output; input() collects text from the user (always as a string)
 # - Variables don't need a declared type - Python infers it automatically
-# - type() tells you the current data type of any value or variable
+# - type() tells us the current data type of any value or variable
 # - Use int(), float(), str() etc. to explicitly convert between types
 # - Python is dynamically typed - a variable's type can change at any time
 # - f-strings (f"...{variable}...") are the cleanest way to mix text and variables
