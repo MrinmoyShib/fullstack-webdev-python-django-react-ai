@@ -32,21 +32,26 @@ fullstack-webdev-python-django-react-ai/
 │   ├── 04_oop_basics.py
 │   ├── 05_modules_packages.py
 │   └── ...
+│📁 02_python/                    # Python basics
+│   ├── 01_intro_to_python.py
+│   ├── 02_strings_and_conditionals.py
+|   ├── 03_loops_and_data_structures.py
+|   ├── ...
+|
+├── 📁 03_django/                    # Django backend development
+│   
+│   
 │
-├── 📁 02_django/                    # Django backend development
-│   ├── classwork/
-│   └── homework/
+├── 📁 04_react/                     # React frontend development
+│   
+│   
 │
-├── 📁 03_react/                     # React frontend development
-│   ├── classwork/
-│   └── homework/
+├── 📁 05_ai_integration/            # AI & API integration
+│   
+│   
 │
-├── 📁 04_ai_integration/            # AI & API integration
-│   ├── classwork/
-│   └── homework/
-│
-├── 📁 05_projects/                  # Full-stack capstone projects
-│   └── project_01/
+├── 📁 06_projects/                  # Full-stack capstone projects
+│   
 │
 └── README.md
 ```
