@@ -220,7 +220,7 @@ for notif in notifications:
 # =============================================================================
 # 4. Abstract Classes
 # =============================================================================
-# An abstract class is a class that says: "here is the SHAPE of what you must
+# An abstract class is a class that says: "here is the SHAPE of what we must
 # build — but I won't build it for you."
 #
 # It defines a list of methods that every subclass MUST implement.

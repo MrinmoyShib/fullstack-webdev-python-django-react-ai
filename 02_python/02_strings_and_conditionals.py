@@ -220,5 +220,5 @@ match day_number:
 # - Operator precedence decides what gets calculated first - use () to be sure
 # - Strings can be sliced and indexed; string methods always return a NEW string
 # - Indentation defines code blocks in Python - there are no curly braces {}
-# - if / elif / else (and match/case) let your program make decisions
+# - if / elif / else (and match/case) let us program make decisions
 # =============================================================================
